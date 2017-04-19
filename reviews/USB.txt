@@ -1,0 +1,5 @@
+Well made cable, great braiding, excellent end connectors. Build quality is there.
+
+Unfortunately, cable is limited to 1.5A charging speed. I have an iOrange-E USB 2.0 type A to type C connector. I suspect they copied this USB 2.0 design to make a C to C cable, which unfortunately means it cannot charge 5V/3A. This is in opposition of literature on both Amazon listing and product packaging which promises full 3A quick charge compatibility.
+
+After trying several third-party cables with my OEM LG Nexus 5X charger, I'm going to order another OEM LG cable, as so many fail to meet USB C spec. I suggest you do the same. I was hoping for a longer cable, but I'm done buying/returning cables over and over and over.
